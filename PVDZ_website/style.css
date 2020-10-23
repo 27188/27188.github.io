@@ -18,9 +18,8 @@
     font-family: 'Libre Baskerville', serif;
     font-size: 7.5px;
     background-image: url('./EarthBackground.jpg');
-    width: 100%;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
   }
 
   h1 {
@@ -241,9 +240,8 @@
     font-family: 'Libre Baskerville', serif;
     font-size: 12.5px;
     background-image: url('./EarthBackground.jpg');
-    width: 100%;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
   }
 
   h1 {
@@ -464,9 +462,8 @@
     font-family: 'Libre Baskerville', serif;
     font-size: 15px;
     background-image: url('./EarthBackground.jpg');
-    width: 100%;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
   }
 
   h1 {
